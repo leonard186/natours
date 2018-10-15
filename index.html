@@ -41,7 +41,7 @@
                 <span class="heading-primary--main">Outdoors</span>
                 <span class="heading-primary--sub">is where life happens</span>
             </h1>
-            <a href="#" class="btn btn--white btn--animated">Discover our tours</a>
+            <a href="#section-tours" class="btn btn--white btn--animated">Discover our tours</a>
         </div>
     </header>
 
@@ -127,7 +127,7 @@
             </div>
         </section>
 
-        <section class="section-tours">
+        <section class="section-tours" id="section-tours">
             <div class="u-center-text u-margin-bottom-big">
                 <h2 class="heading-secondary">
                     Most Popular tours
@@ -191,7 +191,7 @@
                                     <p class="card__price-only">Only</p>
                                     <p class="card__price-value">$497</p>
                                 </div>
-                                <a href="#" class="btn btn--white">Book Now</a>
+                                <a href="#popup" class="btn btn--white">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -221,7 +221,7 @@
                                     <p class="card__price-only">Only</p>
                                     <p class="card__price-value">$897</p>
                                 </div>
-                                <a href="#" class="btn btn--white">Book Now</a>
+                                <a href="#popup" class="btn btn--white">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -229,7 +229,7 @@
             </div>
 
             <div class="u-center-text u-margin-top-huge">
-                <a href="#" class="btn btn--green">
+                <a href="#popup" class="btn btn--green">
                     Discover all tours
                 </a>
             </div>
@@ -366,9 +366,21 @@
 
     </footer>
 
-    <div class="popup">
+    <div class="popup" id="popup">
         <div class="popup__content">
-            popup
+            <div class="popup__left">
+                <img src="img/nat-8.jpg" alt="Tour photo" class="popup__img">
+                <img src="img/nat-9.jpg" alt="Tour photo" class="popup__img">
+            </div>
+            <div class="popup__right">
+                <a href="#section-tours" class="popup__close">&times;</a>
+                <h2 class="heading-secondary u-margin-bottom-small">Start booking now</h2>
+                <h3 class="heading-tertiary u-margin-bottom-small">Important &ndash; Please read these terms before booking</h3>
+                <p class="popup__text">
+                    With its lush green hills and beautiful coastline, Yorkshire attracts visitors from all over the world. York is a must-visit, with its ancient walls and streets, including The Shambles, museums, ghost walks, and tearooms. The Jorvik Viking Centre is a great experience for all the family and train enthusiasts will love the National Railway Museum, containing 280 rail vehicles such as the Japanese 0 Series Shinkansen. Days out in Yorkshire can also include getting back to nature, with a walk in the stunning national parks such as the Dales, the Peaks and the Moors.
+                </p>
+                <a href="#" class="btn btn--green">Book Now</a>
+            </div>
         </div>
     </div>
 
