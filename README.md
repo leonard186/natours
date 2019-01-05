@@ -2,6 +2,11 @@
 
 Fluid layout website presenting a fictional company that advertises tours for adventurous people
 
+# Live Demo
+
+[https://leonard186.github.io/natours/](https://leonard186.github.io/natours/)
+
+
 ## Description
 
 The purpose of this project is to demonstrate HTML, CSS and SASS knowledge.
