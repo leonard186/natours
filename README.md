@@ -9,9 +9,9 @@ Fluid layout website presenting a fictional company that advertises tours for ad
 
 ## Description
 
-The purpose of this project is to demonstrate HTML, CSS and SASS knowledge.
+The purpose of this project is to demonstrate HTML, CSS and SASS knowledge. Built with advanced CSS techniques using the floats based layout.
 
-Built with advanced CSS techniques using the floats based layout
+This website has no functionality, it only presents the user interface of a booking company.
 
 ## Tech used
 
