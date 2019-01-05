@@ -1,0 +1,20 @@
+# natours
+
+Fluid layout website presenting a fictional company that advertises tours for adventurous people
+
+## Description
+
+The purpose of this project is to demonstrate HTML, CSS and SASS knowledge.
+
+Built with advanced CSS techniques using the floats based layout
+
+## Tech used
+
+* HTML5
+* CSS3 (BEM structure applied)
+* SASS(SCSS)
+* NPM
+
+## Acknowledgements
+
+This project is part of the [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/) course on Udemy by Jonas Schmedtmann
