@@ -19,6 +19,7 @@ Built with advanced CSS techniques using the floats based layout
 * CSS3 (BEM structure applied)
 * SASS(SCSS)
 * NPM
+* Responsive layout
 
 ## Acknowledgements
 
